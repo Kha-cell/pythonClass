@@ -1,13 +1,5 @@
-print("        A        ")
-print("       ABA       ")
-print("      ABCBA      ")
-print("     ABCDCBA     ")
-print("    ABCDEDCBA    ")
-print("   ABCDEFEDCBA   ")
-print("  ABCDEFGEFDCBA  ")
-print("   ABCDEFEDCBA   ")
-print("    ABCDEDCBA    ")
-print("     ABCDCBA     ")
-print("      ABCBA      ")
-print("       ABA       ")
-print("        A       ")
+
+count = 1
+for count in range(6):
+ print("*"*count)
+   
