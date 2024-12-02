@@ -17,12 +17,7 @@ products = {
 }
 
 cart = {
-    'names': [],
-    'prices': []
-}
-
-def view_products():
-    for index in range(len(products['names'])):
+   
         print(f"\t{products['names'][index]} -> {products['prices'][index]}")
 
 def add_to_cart(cart, product):
@@ -76,3 +71,4 @@ while running:
 
 
 
+		

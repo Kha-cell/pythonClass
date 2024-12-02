@@ -5,4 +5,4 @@ def get_even(number:list)-> int:
 			total += count
 	return total
 
-print(get_even([1, 2, 3, 4, 5,]))
+print(get_even([2,7,9,17,19,2,8,10]))

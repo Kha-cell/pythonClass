@@ -1,2 +1,2 @@
-food = ["rice🍚", "beans", "spag"]
+food = ["rice🍚", "beansg", "spag"]
 print(food[3])
